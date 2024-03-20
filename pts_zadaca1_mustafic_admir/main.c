@@ -24,6 +24,7 @@ uint16_t cnt;
 
 int main(void)
 {
+	printf("Hello world");
 	uint8_t beacon_data[17];
 	uint8_t k;
 
