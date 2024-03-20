@@ -23,7 +23,10 @@ const uint8_t c_leds[LED_ARRAY_SIZE] = { LED0, LED1, LED2, LED3 };
 uint16_t cnt;
 
 int main(void)
-{
+{	
+
+	printf("Hello world");
+	printf("Hello world");
 	printf("Hello world");
 	uint8_t beacon_data[17];
 	uint8_t k;
