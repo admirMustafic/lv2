@@ -177,5 +177,8 @@ void getData4EmitMAIN(uint8_t* data)
 		printUART0("%xb", data[k]);
 	}
 	printUART0("\e[0m]\n");
+	printUART0("\e[0m]\n");
+	printUART0("\e[0m]\n");
+	printUART0("\e[0m]\n");
 
 }
