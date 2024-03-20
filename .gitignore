@@ -1,0 +1,9 @@
+.vscode/
+.editorconfig
+
+
+_build/
+
+*.o
+*.s
+*.hex
